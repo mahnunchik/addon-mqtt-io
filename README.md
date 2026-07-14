@@ -92,8 +92,6 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-mqtt-io.svg
 [commits]: https://github.com/hassio-addons/addon-mqtt-io/commits/main
 [contributors]: https://github.com/hassio-addons/addon-mqtt-io/graphs/contributors
