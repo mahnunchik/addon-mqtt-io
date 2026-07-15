@@ -20,6 +20,7 @@ RUN \
         py3-pip=26.1.2-r0 \
         python3=3.14.5-r0 \
         python3-dev=3.14.5-r0 \
+        yq-go=4.53.3-r0 \
     \
     && pip install --break-system-packages -r /tmp/requirements.txt \
     \
